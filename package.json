@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "axios": "^0.16.2",
+    "babel-core": "^6.26.3",
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
     "mongoose": "^5.0.17"
